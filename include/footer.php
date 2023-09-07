@@ -32,5 +32,5 @@
       </div>
     </div>
   </div>
-  <div id="developed">developed by @Team DAVG</div>
+  <div id="developed">developed by @Gnaneswar Yalla</div>
 </footer>
